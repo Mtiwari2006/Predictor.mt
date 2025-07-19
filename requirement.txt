@@ -1,2 +1,2 @@
 streamlit
-install generativeai as ai
+google-generativeai
