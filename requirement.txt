@@ -1,0 +1,2 @@
+streamlit
+install generativeai as ai
